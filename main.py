@@ -55,12 +55,3 @@ while play_again():
 
     question()
 print("\nBYee")
-
-# print(quiz)
-# print(quiz['results'])
-# with open('info.txt') as file:
-#     print(file.read())
-#
-# print(type(quiz))
-# data = str(json.loads(quiz))
-# print(data)
